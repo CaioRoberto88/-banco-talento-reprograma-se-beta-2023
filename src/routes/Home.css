@@ -1,0 +1,17 @@
+.card {
+  padding: 1rem;
+  background-color: #fff;
+  border: 3px solid #ccc;
+  border-radius: 10px;
+}
+
+.data-Oportunidade {
+  font-size: 0.9rem;
+  color: #fff;
+}
+
+.conhecimentos-oportunidade,
+.experiencias-oportunidade,
+.situacao-oportunidade {
+  font-weight: 600;
+}

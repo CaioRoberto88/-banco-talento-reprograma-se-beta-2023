@@ -1,0 +1,17 @@
+.container-empresa img {
+  width: 250px;
+}
+
+.btn-deletar {
+  color: #fff;
+  text-align: center;
+  background-color: black;
+  min-width: 100px;
+  padding: 0.2rem;
+  border-radius: 5px;
+  transition: 0.4s;
+}
+
+.btn-deletar:hover {
+  opacity: 0.7;
+}

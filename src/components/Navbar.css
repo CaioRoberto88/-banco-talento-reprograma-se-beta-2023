@@ -1,0 +1,64 @@
+.navbar {
+  background-color: #000;
+}
+
+.navbar-nav {
+  padding: 0.5rem;
+  margin-right: 0.5rem;
+  display: flex;
+  flex-direction: row;
+  background-color: #2196f3;
+  border-radius: 10px;
+}
+
+.navbar-nav li {
+  padding: 0 0.5rem;
+}
+
+.navbar-brand img {
+  width: 150px;
+  margin-left: 1rem;
+}
+
+.nav-link {
+  font-weight: 600;
+  padding: 0.5rem;
+  transition: 0.4s;
+}
+
+.nav-link:hover {
+  color: #fff;
+}
+
+.active {
+  --bs-navbar-active-color: #fff;
+}
+
+.dropdown-toggle {
+  font-weight: 600;
+  width: 250px;
+  margin: 0 0.5rem;
+  border: 1px solid transparent;
+  transition: 0.4s;
+}
+
+.dropdown-toggle:hover {
+  color: #fff;
+  border: 1px solid #fff;
+}
+
+.dropdown .bi {
+  font-size: 1.3rem;
+  color: #fefefe;
+  margin-right: 0.2rem;
+}
+
+.dropdown-item {
+  --bs-dropdown-link-hover-bg: none;
+  margin: 0.5rem 0;
+}
+
+.dropdown-link {
+  color: #000;
+}
+

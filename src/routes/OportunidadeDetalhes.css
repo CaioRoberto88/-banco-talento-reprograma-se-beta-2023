@@ -1,0 +1,15 @@
+.data-Oportunidade {
+  font-size: 0.9rem;
+  color: #fff;
+}
+
+.conhecimentos-oportunidade-detalhes,
+.experiencias-oportunidade-detalhes,
+.situacao-oportunidade-detalhes {
+  font-weight: 600;
+}
+
+.oportunidade-image-empresa {
+  width: 250px;
+  border-radius: 5px;
+}
